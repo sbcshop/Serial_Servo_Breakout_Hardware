@@ -1,14 +1,13 @@
 # Serial_Servo_Breakout_Hardware
-
-
+<!--
 <img src= "" />
-
+-->
 This Github provides hardware design files for Serial Servo Breakout.
 
 ### Repository Contents:
-  - [/Design Data]() - This directory contains Schematic, Top and Bottom View
-  - [/Mechanical Data]() - This directory contains Dimension, 3D and STEP files
-  - [Getting Started Guide]() - This repo contains Breakout Getting Started instructions.
+  - [/Design Data](https://github.com/sbcshop/Serial_Servo_Breakout_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
+  - [/Mechanical Data](https://github.com/sbcshop/Serial_Servo_Breakout_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
+  - [Getting Started Guide](https://github.com/sbcshop/Serial_Servo_Breakout_Software) - This repo contains Breakout Getting Started instructions.
 
 
 ## Related Products  
