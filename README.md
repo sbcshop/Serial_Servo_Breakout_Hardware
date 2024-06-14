@@ -30,8 +30,6 @@ This Github provides hardware design files for Serial Servo Breakout.
 
 
 
-
-
 ## Product License
 
 This is ***open source*** product. Kindly check LICENSE.md file for more information.
