@@ -1,7 +1,9 @@
 # Serial_Servo_Breakout_Hardware
-<!--
-<img src= "" />
--->
+
+<img src= "https://cdn.shopify.com/s/files/1/1217/2104/files/Artboard_1_5b49389d-44e7-43b4-8106-481d6ff27fe6.png?v=1718780960" />
+
+The Serial Servo Breakout offers remarkable versatility, as it is compatible with a wide array of Single-Board Computers (SBCs) and microcontrollers. It possesses all the capabilities found in the Serial Servo Pico HAT or the Serial Servo Shield, allowing it to excel in a variety of applications. Its adaptability makes it an ideal choice for those seeking powerful servo control without the need for a display interface.
+
 This Github provides hardware design files for Serial Servo Breakout.
 
 ### Repository Contents:
